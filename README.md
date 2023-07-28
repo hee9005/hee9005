@@ -28,8 +28,7 @@ Database
 
 Contact&portfolio
 --
-<img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"> [![notion](https://img.shields.io/badge/-notion-#000000?logo=notion&logoColor=white&link={https://www.notion.so/d017b334b7234f1b8c403999fe2633b7})]({https://www.notion.so/d017b334b7234f1b8c403999fe2633b7})
-[출처] 깃헙 메인 프로필 꾸미기 (뱃지 설정, 컴포넌트 추가)|작성자 무마니 vivi
+<img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"> <a href="https://www.notion.so/d017b334b7234f1b8c403999fe2633b7"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
 
 
