@@ -12,7 +12,7 @@ Stacks
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/springboot-%6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/springsecurity-%6DB33F.svg?&style=for-the-badge&logo=springsecurity&logoColor=white">
-
+<img src="https://img.shields.io/badge/oracle-%F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white">
 
 Github-stats
 --
