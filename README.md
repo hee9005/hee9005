@@ -1,7 +1,7 @@
 
 <!-- info -->
 ### :wave: Welcome!
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Junior%2BBackend%2BDeveloper%2BLee%2BKwon%2Bhee.&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Junior%2BBackend%2BDeveloper%2BLee%2BKwon%2Bhee.&fontSize=30)
 
 💻portfolio💻
 --
