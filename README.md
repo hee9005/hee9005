@@ -5,7 +5,7 @@
 
 💻portfolio💻
 --
-<a href="https://www.notion.so/d017b334b7234f1b8c403999fe2633b7"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="https://www.notion.so/d017b334b7234f1b8c403999fe2633b7?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
 📞Contact📞
 --
